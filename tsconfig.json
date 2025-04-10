@@ -43,7 +43,7 @@
     "src/components/stats/Stats.jsx",
     "src/components/ManagerSelect/ManagerSelect.jsx",
     "src/models/VacancyImages.js",
-    "public/sw.оs",
+    "public/sw.js",
     "updateCandidate.js"
   ],
   "exclude": [
